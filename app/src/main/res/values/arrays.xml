@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="certifications">
+        <item>Red Cross</item>
+        <item>American Academy of CPR</item>
+        <item>First Aid Web</item>
+        <item>Indigo medical training</item>
+    </string-array>
+
+    <string-array name="cpr_mode_array">
+        <item>Without Rescue breath</item>
+        <item>With Rescue breath</item>
+    </string-array>
+
+    <string-array name="title_array">
+        <item name="step_1">#1 Shake and shout</item>
+        <item name="step_2">#2 Check for normal breathing</item>
+        <item name="step_3">#3 Call 999</item>
+        <item name="step_4">#4 30 chest compressions</item>
+        <item name="step_5">#5 Give two rescue breaths</item>
+        <item name="step_6">#6 Repeat until an ambulance arrives</item>
+    </string-array>
+
+    <string-array name="descript_array">
+        <item name="descript_1">If you come across someone who is unconscious, always check for danger and look for risks before you start helping.
+Check for a response – \n\n1.gently shake the person’s shoulders and ask loudly \'are you alright?\'\n\n2.Shout for help – if someone is nearby, ask them to stay as you might need them. If you are alone, shout loudly to attract attention, but don't leave the person.</item>
+        <item name="descript_2">Someone having a cardiac arrest won’t be breathing, or won’t be breathing normally. They also won’t be conscious.
+Keeping their head back, check if the person is breathing normally by looking for:
+1.regular chest movements
+2.listening for breathing
+3.feeling for breath on your cheek.
+Look, listen and feel for no more than 10 seconds. Don’t confuse gasps with normal breathing. If you’re not sure if their breathing is normal, act as if it\'s not normal.
+1.If you\'re sure the person is breathing normally, then put them in the recovery position and call 999.
+2.If breathing isn’t normal, open their airway. Place one hand on the person’s forehead, gently tilt their head back, then lift their chin using two fingers of your other hand under their chin – when you do this you open their airway.</item>
+        <item name="descript_3">if the person is not breathing or not breathing normally:
+
+        ask someone to call 999 immediately and ask for an ambulance
+        ask someone for a public access defibrillator (PAD).
+        If you can’t find anyone to help, call 999 before you start CPR.
+        Ambulance helpline (All over India): 102
+        Medical Helpline (Andhra Pradesh, Gujarat, Uttarakhand, Goa, Tamil Nadu, Rajasthan,
+        Karnataka, Assam, Meghalaya, Madhya Pradesh and Uttar Pradesh): 108
+    </item>
+        <item name="descript_4">1.Kneel next to the person.
+2.Place the heel of one hand in the centre of their chest. Place your other hand on top of the first. Interlock your fingers.
+3.With straight arms, use the heel of your hand to push the breastbone down firmly and smoothly, so that the chest is pressed down between 5–6 cm, and release.
+4.Do this at a rate of 100 to 120 chest compressions per minute – that’s around 2 per second.
+5.Give 30 chest compressions.</item>
+        <item name="descript_5">1.Open the airway again by tilting the head back and lifting the chin. Pinch the soft part of the person’s nose closed.
+2.Take a normal breath, make a seal around their mouth and breathe out steadily.
+3.The person’s chest should rise and fall. Keeping the person’s head back and the chin lifted, take your mouth away, take another normal breath, and give a second rescue breath. The two breaths should take no longer than five seconds.</item>
+        <item name="descript_6">Repeat 30 compressions and two rescue breaths.
+If you’d rather not give rescue breaths then call 999 and deliver hands-only CPR. That’s better than doing nothing.
+Keep going until professional help arrives and takes over, or the person starts to show signs of regaining consciousness, such as coughing, opening their eyes, speaking, or breathing normally.
+If you’re feeling tired, and there’s someone nearby to help, instruct them to continue.</item>
+    </string-array>
+
+</resources>

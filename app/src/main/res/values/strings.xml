@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CardiacSimulator</string>
+
+    <string name="string_1">In April 2011, it was claimed that nine-year-old Tristin Saghin saved his sister\'s life by administering CPR on her after she fell into a swimming pool, using only the knowledge of CPR that he had gleaned from a motion picture, \"Black Hawk Down\".</string>
+    <string name="string_2">In cities such as Seattle where CPR training is widespread and defibrillation by EMS personnel follows quickly, the survival rate is about 30 percent. In cities such as New York, without those advantages, the survival rate is only 1–2 percent.</string>
+    <string name="string_3">The purpose of CPR is not to "start" the heart, but rather to circulate oxygenated blood, and keep the brain alive until advanced care arrives.</string>
+    <string name="string_4">CPR is only effective if started within 6 minutes after the blood flow stops, because permanent brain cell damage occurs when fresh blood infuses the cells after that time.</string>
+    <string name="certifications_string">Online CPR Certifications</string>
+
+    <string name="step_1">Shake and shout</string>
+    <string name="step_2">Check for normal breathing</string>
+    <string name="step_3">Call Ambulance</string>
+    <string name="step_4">30 chest compressions</string>
+    <string name="step_5">Give two rescue breaths</string>
+    <string name="step_6">Repeat until an ambulance arrives</string>
+
+    <string name="descript_1">If you come across someone who is unconscious, always check for danger and look for risks before you start helping.
+Check for a response – \n► Gently shake the person’s shoulders and ask loudly \'are you alright?\'\n\n► Shout for help – if someone is nearby, ask them to stay as you might need them. If you are alone, shout loudly to attract attention, but don't leave the person.</string>
+    <string name="descript_2">Someone having a cardiac arrest won’t be breathing, or won’t be breathing normally. They also won’t be conscious.
+Keeping their head back, check if the person is breathing normally by looking for:\n\n
+\n► regular chest movements
+\n► listening for breathing
+\n► feeling for breath on your cheek.\n\n
+Look, listen and feel for no more than 10 seconds. Don’t confuse gasps with normal breathing. If you’re not sure if their breathing is normal, act as if it\'s not normal.\n\n
+► If you\'re sure the person is breathing normally, then put them in the recovery position and call 999.\n
+► If breathing isn’t normal, open their airway. Place one hand on the person’s forehead, gently tilt their head back, then lift their chin using two fingers of your other hand under their chin – when you do this you open their airway.\n\n\n\n</string>
+    <string name="descript_3">if the person is not breathing or not breathing normally:\n\n
+        ► ask someone to call for ambulance immediately and ask for an ambulance\n
+        ► ask someone for a public access defibrillator (PAD).\n
+        ► If you can’t find anyone to help, call 999 before you start CPR.\n\n
+        Ambulance helpline (All over India): 102
+        \nMedical Helpline (Andhra Pradesh, Gujarat, Uttarakhand, Goa, Tamil Nadu, Rajasthan,
+        Karnataka, Assam, Meghalaya, Madhya Pradesh and Uttar Pradesh): 108
+    </string>
+    <string name="descript_4">► Kneel next to the person.\n
+► Place the heel of one hand in the centre of their chest. Place your other hand on top of the first. Interlock your fingers.\n
+► With straight arms, use the heel of your hand to push the breastbone down firmly and smoothly, so that the chest is pressed down between 5–6 cm, and release.\n
+► Do this at a rate of 100 to 120 chest compressions per minute – that’s around 2 per second.\n
+► Give 30 chest compressions.\n</string>
+    <string name="descript_5">► Open the airway again by tilting the head back and lifting the chin. Pinch the soft part of the person’s nose closed.
+► Take a normal breath, make a seal around their mouth and breathe out steadily.\n
+► The person’s chest should rise and fall. Keeping the person’s head back and the chin lifted, take your mouth away, take another normal breath, and give a second rescue breath. The two breaths should take no longer than five seconds.\n</string>
+    <string name="descript_6">Repeat 30 compressions and two rescue breaths.\n
+If you’d rather not give rescue breaths then call 999 and deliver hands-only CPR. That’s better than doing nothing.\n\n
+Keep going until professional help arrives and takes over, or the person starts to show signs of regaining consciousness, such as coughing, opening their eyes, speaking, or breathing normally.\n
+If you’re feeling tired, and there’s someone nearby to help, instruct them to continue.</string>
+    <string name="completion_title">Congratulations!</string>
+    <string name="completion_message">You have saved a life! Let us know how you felt about the test.</string>
+    <string name="positive_text">Retake test</string>
+    <string name="negative_button">exit</string>
+    <string name="cpr_modes">CPR Mode</string>
+    <string name="cpr_mode_string">Select how you want to administer CPR</string>
+</resources>
