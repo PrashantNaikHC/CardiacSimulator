@@ -497,7 +497,7 @@ public class MainActivity extends Activity implements SensorEventListener {
         // display the max x,y,z accelerometer values
         displayMaxValues();
         //alert for shaking the body on xy plane
-        maxRecordPerCompression();
+
 
         // get the change of the x,y,z values of the accelerometer
         deltaX = Math.abs(lastX - event.values[0]);
@@ -526,8 +526,6 @@ public class MainActivity extends Activity implements SensorEventListener {
         checkMovement();
     }
 
-    private void maxRecordPerCompression() {
-    }
 
     // if the change in the accelerometer value is big enough, then vibrate!
     // our threshold is MaxValue/2

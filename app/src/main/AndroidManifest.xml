@@ -23,7 +23,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".InformationActivity" />
-        <activity android:name=".LearnCprActivity"></activity>
+        <activity android:name=".LearnCprActivity" />
+        <activity android:name=".StepOneActivity"></activity>
     </application>
 
 </manifest>

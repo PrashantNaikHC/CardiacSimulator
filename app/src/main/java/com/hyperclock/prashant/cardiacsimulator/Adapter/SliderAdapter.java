@@ -1,6 +1,7 @@
 package com.hyperclock.prashant.cardiacsimulator.Adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v4.view.PagerAdapter;
 import android.view.LayoutInflater;
@@ -13,6 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.hyperclock.prashant.cardiacsimulator.R;
+import com.hyperclock.prashant.cardiacsimulator.StepOneActivity;
 
 public class SliderAdapter extends PagerAdapter {
 
@@ -73,10 +75,15 @@ public class SliderAdapter extends PagerAdapter {
         titleSlider.setText(slide_title[position]);
         descriptionSlider.setText(slide_description[position]);
 
-        titleSlider.setOnClickListener(new View.OnClickListener() {
+        tryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(view.getContext(), "position" + position, Toast.LENGTH_SHORT).show();
+                switch (position) {
+                    case 1:
+                        context.startActivity(new Intent(context, StepOneActivity.class));
+                    default:
+                        context.startActivity(new Intent(context, StepOneActivity.class));
+                }
             }
         });
 

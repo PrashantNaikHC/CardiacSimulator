@@ -50,4 +50,5 @@ If you’re feeling tired, and there’s someone nearby to help, instruct them t
     <string name="negative_button">exit</string>
     <string name="cpr_modes">CPR Mode</string>
     <string name="cpr_mode_string">Select how you want to administer CPR</string>
+    <string name="completion_message_step_one">You completed the first step in CPR by gently shaking the body. Call for neccessary help as mentioned in the description.</string>
 </resources>
