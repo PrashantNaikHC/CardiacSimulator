@@ -7,14 +7,15 @@ import android.support.v4.view.PagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.hyperclock.prashant.cardiacsimulator.R;
 import com.hyperclock.prashant.cardiacsimulator.StepOneActivity;
+import com.hyperclock.prashant.cardiacsimulator.StepTwoActivity;
 
 public class SliderAdapter extends PagerAdapter {
 
@@ -69,7 +70,9 @@ public class SliderAdapter extends PagerAdapter {
         TextView descriptionSlider = (TextView) view.findViewById(R.id.description_slider);
         ImageView BoardingImage = (ImageView) view.findViewById(R.id.faceImage);
         Button tryButton = (Button) view.findViewById(R.id.tryButton);
+        ImageView time = (ImageView) view.findViewById(R.id.time_iv);
 
+        time.setAnimation(AnimationUtils.loadAnimation(context, R.anim.anim_slide));
 
         BoardingImage.setImageResource(slide_images[position]);
         titleSlider.setText(slide_title[position]);
@@ -81,6 +84,8 @@ public class SliderAdapter extends PagerAdapter {
                 switch (position) {
                     case 1:
                         context.startActivity(new Intent(context, StepOneActivity.class));
+                    case 2:
+                        context.startActivity(new Intent(context, StepTwoActivity.class));
                     default:
                         context.startActivity(new Intent(context, StepOneActivity.class));
                 }

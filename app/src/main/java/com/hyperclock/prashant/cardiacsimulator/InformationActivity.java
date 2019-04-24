@@ -9,7 +9,8 @@ import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayerView;
-import com.hyperclock.prashant.cardiacsimulator.configuration.YouTubeConfig;
+import com.hyperclock.prashant.cardiacsimulator.Configuration.YouTubeConfig;
+import com.hyperclock.prashant.cardiacsimulator.Configuration.YouTubeConfig;
 
 public class InformationActivity extends YouTubeBaseActivity {
 

@@ -24,7 +24,8 @@
         </activity>
         <activity android:name=".InformationActivity" />
         <activity android:name=".LearnCprActivity" />
-        <activity android:name=".StepOneActivity"></activity>
+        <activity android:name=".StepOneActivity" />
+        <activity android:name=".StepTwoActivity"></activity>
     </application>
 
 </manifest>
